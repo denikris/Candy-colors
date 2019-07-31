@@ -2,7 +2,7 @@
 
 DockbarX/DockX theme
 
-copy `Candy-colors.tar.gz` to `/usr/share/dockbarx/themes/` and change via dockbarx preferences
+copy `Candy-colors.tar.gz` to `~/.dockbarx/themes/` or with access root for all user to `/usr/share/dockbarx/themes/` and change via dockbarx preferences
 
 ![image](https://github.com/denikris/Candy-colors/blob/master/candy-colors%20screenshot.png)
 ###### icon used in this screenshot
